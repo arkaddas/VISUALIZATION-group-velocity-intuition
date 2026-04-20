@@ -1,4 +1,4 @@
-# VISUALIZATION-group-velocity-intuition
+# VISUALIZATION-phasor-pulse-intuition
 
 A small MATLAB repo for building intuition about **phasor realignment**, **beating**, and **pulse** / **envelope formation** from multiple oscillatory components.
 
